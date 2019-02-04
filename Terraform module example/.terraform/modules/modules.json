@@ -1,1 +1,0 @@
-{"Modules":[{"Source":"Modules/VPC","Key":"1.vpc;Modules/VPC","Version":"","Dir":".terraform\\modules\\435573c3ba864a19b581165bfc8f9d1c","Root":""},{"Source":"Modules/CloudStorage","Key":"1.gcs;Modules/CloudStorage","Version":"","Dir":".terraform\\modules\\b0da0eb8ea6d3301fe88f9edc441bd58","Root":""}]}
